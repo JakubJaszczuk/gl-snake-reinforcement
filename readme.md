@@ -1,6 +1,6 @@
 # NeuroEvolution Snake 
 
-Game rendered with OpenGL textures. Neural networks trained with steady state genetic algorithm. Only weights are modified. For better algorithm check [NEAT](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf).
+Game rendered with OpenGL textures. Neural networks trained with steady state genetic algorithm. After some iterations it scores even 20 points. Only neural network weights are modified. For better algorithm check [NEAT](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf).
 
 
 Dependencies:
